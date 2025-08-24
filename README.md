@@ -50,8 +50,8 @@ It calculates metrics such as the average time between pull requests for a repos
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo>
+git clone https://github.com/0RafalFrydrych0/github_events.git
+cd github_events
 ```
 2. Create a virtual environemnt
 ```bash
